@@ -499,6 +499,7 @@ nav {
 
     .nav-links li {
         margin: 0.5rem 0;
+        font-size: 8px;
     }
     .nav-links li a{
         font-weight: bolder;
